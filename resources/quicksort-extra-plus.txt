@@ -1,0 +1,75 @@
+canvas 340 120
+plus name circle0 min-x 30.000 min-y 60.000 width 15.000 height 15.000 color 0.000000 0.407843 0.000000 from 0 to 159
+plus name circle1 min-x 70.000 min-y 60.000 width 15.000 height 15.000 color 0.000000 0.176471 0.000000 from 0 to 159
+plus name circle2 min-x 110.000 min-y 60.000 width 15.000 height 15.000 color 0.000000 0.145098 0.000000 from 0 to 159
+plus name circle3 min-x 150.000 min-y 60.000 width 15.000 height 15.000 color 0.000000 0.576471 0.000000 from 0 to 159
+plus name circle4 min-x 190.000 min-y 60.000 width 15.000 height 15.000 color 0.000000 0.419608 0.000000 from 0 to 159
+plus name circle5 min-x 230.000 min-y 60.000 width 15.000 height 15.000 color 0.000000 0.235294 0.000000 from 0 to 159
+plus name circle6 min-x 270.000 min-y 60.000 width 15.000 height 15.000 color 0.000000 0.733333 0.000000 from 0 to 159
+plus name circle7 min-x 310.000 min-y 60.000 width 15.000 height 15.000 color 0.000000 0.156863 0.000000 from 0 to 159
+move name circle2 moveto 110.000 60.000 110.000 40.000 from 68 to 70
+move name circle2 moveto 110.000 40.000 70.000 40.000 from 70 to 72
+move name circle2 moveto 70.000 40.000 70.000 60.000 from 72 to 74
+move name circle2 moveto 70.000 60.000 70.000 40.000 from 82 to 84
+move name circle2 moveto 70.000 40.000 30.000 40.000 from 84 to 86
+move name circle2 moveto 30.000 40.000 30.000 60.000 from 86 to 88
+move name circle2 moveto 30.000 60.000 30.000 80.000 from 89 to 91
+move name circle2 moveto 30.000 80.000 30.000 80.000 from 91 to 93
+move name circle2 moveto 30.000 80.000 30.000 60.000 from 93 to 95
+move name circle2 moveto 30.000 60.000 30.000 40.000 from 96 to 98
+move name circle2 moveto 30.000 40.000 30.000 40.000 from 98 to 100
+move name circle2 moveto 30.000 40.000 30.000 60.000 from 100 to 102
+move name circle3 moveto 150.000 60.000 150.000 80.000 from 5 to 7
+move name circle3 moveto 150.000 80.000 310.000 80.000 from 7 to 9
+move name circle3 moveto 310.000 80.000 310.000 60.000 from 9 to 11
+move name circle3 moveto 310.000 60.000 310.000 40.000 from 138 to 140
+move name circle3 moveto 310.000 40.000 270.000 40.000 from 140 to 142
+move name circle3 moveto 270.000 40.000 270.000 60.000 from 142 to 144
+move name circle3 moveto 270.000 60.000 270.000 80.000 from 145 to 147
+move name circle3 moveto 270.000 80.000 270.000 80.000 from 147 to 149
+move name circle3 moveto 270.000 80.000 270.000 60.000 from 149 to 151
+move name circle3 moveto 270.000 60.000 270.000 40.000 from 152 to 154
+move name circle3 moveto 270.000 40.000 270.000 40.000 from 154 to 156
+move name circle3 moveto 270.000 40.000 270.000 60.000 from 156 to 158
+move name circle0 moveto 30.000 60.000 30.000 80.000 from 33 to 35
+move name circle0 moveto 30.000 80.000 190.000 80.000 from 35 to 37
+move name circle0 moveto 190.000 80.000 190.000 60.000 from 37 to 39
+move name circle1 moveto 70.000 60.000 70.000 80.000 from 61 to 63
+move name circle1 moveto 70.000 80.000 110.000 80.000 from 63 to 65
+move name circle1 moveto 110.000 80.000 110.000 60.000 from 65 to 67
+move name circle1 moveto 110.000 60.000 110.000 80.000 from 103 to 105
+move name circle1 moveto 110.000 80.000 110.000 80.000 from 105 to 107
+move name circle1 moveto 110.000 80.000 110.000 60.000 from 107 to 109
+move name circle1 moveto 110.000 60.000 110.000 40.000 from 110 to 112
+move name circle1 moveto 110.000 40.000 110.000 40.000 from 112 to 114
+move name circle1 moveto 110.000 40.000 110.000 60.000 from 114 to 116
+move name circle6 moveto 270.000 60.000 270.000 80.000 from 131 to 133
+move name circle6 moveto 270.000 80.000 310.000 80.000 from 133 to 135
+move name circle6 moveto 310.000 80.000 310.000 60.000 from 135 to 137
+move name circle7 moveto 310.000 60.000 310.000 40.000 from 12 to 14
+move name circle7 moveto 310.000 40.000 150.000 40.000 from 14 to 16
+move name circle7 moveto 150.000 40.000 150.000 60.000 from 16 to 18
+move name circle7 moveto 150.000 60.000 150.000 40.000 from 54 to 56
+move name circle7 moveto 150.000 40.000 30.000 40.000 from 56 to 58
+move name circle7 moveto 30.000 40.000 30.000 60.000 from 58 to 60
+move name circle7 moveto 30.000 60.000 30.000 80.000 from 75 to 77
+move name circle7 moveto 30.000 80.000 70.000 80.000 from 77 to 79
+move name circle7 moveto 70.000 80.000 70.000 60.000 from 79 to 81
+move name circle4 moveto 190.000 60.000 190.000 80.000 from 19 to 21
+move name circle4 moveto 190.000 80.000 230.000 80.000 from 21 to 23
+move name circle4 moveto 230.000 80.000 230.000 60.000 from 23 to 25
+move name circle4 moveto 230.000 60.000 230.000 80.000 from 117 to 119
+move name circle4 moveto 230.000 80.000 230.000 80.000 from 119 to 121
+move name circle4 moveto 230.000 80.000 230.000 60.000 from 121 to 123
+move name circle4 moveto 230.000 60.000 230.000 40.000 from 124 to 126
+move name circle4 moveto 230.000 40.000 230.000 40.000 from 126 to 128
+move name circle4 moveto 230.000 40.000 230.000 60.000 from 128 to 130
+move name circle5 moveto 230.000 60.000 230.000 40.000 from 26 to 28
+move name circle5 moveto 230.000 40.000 190.000 40.000 from 28 to 30
+move name circle5 moveto 190.000 40.000 190.000 60.000 from 30 to 32
+move name circle5 moveto 190.000 60.000 190.000 40.000 from 40 to 42
+move name circle5 moveto 190.000 40.000 30.000 40.000 from 42 to 44
+move name circle5 moveto 30.000 40.000 30.000 60.000 from 44 to 46
+move name circle5 moveto 30.000 60.000 30.000 80.000 from 47 to 49
+move name circle5 moveto 30.000 80.000 150.000 80.000 from 49 to 51
+move name circle5 moveto 150.000 80.000 150.000 60.000 from 51 to 53
