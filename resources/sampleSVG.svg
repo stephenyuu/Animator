@@ -1,0 +1,53 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<polygon id="p" points="150.000 100.000, 200.000 100.000, 200.000 150.000, 250.000 150.000, 250.000 200.000, 200.000 200.000, 200.000 250.000, 150.000 250.000, 150.000 200.000, 100.000 200.000,100.000 150.000, 150.000 150.000" fill="rgb(255,0,0)" visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="0.000s" dur="5.000s" fill="freeze"/>
+<animate attributeType="xml" begin="0.000s" dur="0.500s" attributeName="points" from="150.000 100.000, 200.000 100.000, 200.000 150.000, 250.000 150.000, 250.000 200.000, 200.000 200.000, 200.000 250.000, 150.000 250.000, 150.000 200.000, 100.000 200.000, 100.000 150.000, 150.000 150.000" to="110.000 100.000, 120.000 100.000, 120.000 110.000, 130.000 110.000, 130.000 120.000, 120.000 120.000, 120.000 130.000, 110.000 130.000, 110.000 120.000, 100.000 120.000, 100.000 110.000, 110.000 110.000" fill="freeze"/>
+<animate attributeType="xml" begin="0.100s" dur="0.400s" attributeName="points" from="110.000 100.000, 120.000 100.000, 120.000 110.000, 130.000 110.000, 130.000 120.000, 120.000 120.000, 120.000 130.000, 110.000 130.000, 110.000 120.000, 100.000 120.000, 100.000 110.000, 110.000 110.000" to="310.000 150.000, 320.000 150.000, 320.000 160.000, 330.000 160.000, 330.000 170.000, 320.000 170.000, 320.000 180.000, 310.000 180.000, 310.000 170.000, 300.000 170.000, 300.000 160.000, 310.000 160.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(255.000,0.000,0.000)" to="rgb(0.000,255.000,0.000)" begin="0.100s" dur="0.400s" fill="freeze"/>
+<animate attributeType="xml" begin="1.000s" dur="2.000s" attributeName="points" from="310.000 150.000, 320.000 150.000, 320.000 160.000, 330.000 160.000, 330.000 170.000, 320.000 170.000, 320.000 180.000, 310.000 180.000, 310.000 170.000, 300.000 170.000, 300.000 160.000, 310.000 160.000" to="303.000 150.000, 306.000 150.000, 306.000 153.000, 309.000 153.000, 309.000 156.000, 306.000 156.000, 306.000 159.000, 303.000 159.000, 303.000 156.000, 300.000 156.000, 300.000 153.000, 303.000 153.000" fill="freeze"/>
+<animate attributeType="xml" begin="1.100s" dur="0.400s" attributeName="points" from="303.000 150.000, 306.000 150.000, 306.000 153.000, 309.000 153.000, 309.000 156.000, 306.000 156.000, 306.000 159.000, 303.000 159.000, 303.000 156.000, 300.000 156.000, 300.000 153.000, 303.000 153.000" to="203.000 200.000, 206.000 200.000, 206.000 203.000, 209.000 203.000, 209.000 206.000, 206.000 206.000, 206.000 209.000, 203.000 209.000, 203.000 206.000, 200.000 206.000, 200.000 203.000, 203.000 203.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(0.000,255.000,0.000)" to="rgb(0.000,0.000,255.000)" begin="1.100s" dur="0.400s" fill="freeze"/>
+<animate attributeType="xml" begin="2.100s" dur="0.400s" attributeName="points" from="203.000 200.000, 206.000 200.000, 206.000 203.000, 209.000 203.000, 209.000 206.000, 206.000 206.000, 206.000 209.000, 203.000 209.000, 203.000 206.000, 200.000 206.000, 200.000 203.000, 203.000 203.000" to="103.000 100.000, 106.000 100.000, 106.000 103.000, 109.000 103.000, 109.000 106.000, 106.000 106.000, 106.000 109.000, 103.000 109.000, 103.000 106.000, 100.000 106.000, 100.000 103.000, 103.000 103.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(0.000,0.000,255.000)" to="rgb(0.000,255.000,255.000)" begin="2.100s" dur="0.400s" fill="freeze"/>
+<animate attributeType="xml" begin="3.100s" dur="0.400s" attributeName="points" from="103.000 100.000, 106.000 100.000, 106.000 103.000, 109.000 103.000, 109.000 106.000, 106.000 106.000, 106.000 109.000, 103.000 109.000, 103.000 106.000, 100.000 106.000, 100.000 103.000, 103.000 103.000" to="303.000 150.000, 306.000 150.000, 306.000 153.000, 309.000 153.000, 309.000 156.000, 306.000 156.000, 306.000 159.000, 303.000 159.000, 303.000 156.000, 300.000 156.000, 300.000 153.000, 303.000 153.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(0.000,255.000,255.000)" to="rgb(0.000,0.000,255.000)" begin="3.100s" dur="0.400s" fill="freeze"/>
+</polygon>
+<rect id="r" x="300.000" y="150.000" width="100.000" height="100.000" fill="rgb(0,0,255)" visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="0.000s" dur="5.000s" fill="freeze"/>
+<animate attributeType="xml" begin="0.000s" dur="0.500s" attributeName="width" from="100.000" to="40.000" fill="freeze"/>
+<animate attributeType="xml" begin="0.000s" dur="0.500s" attributeName="height" from="100.000" to="40.000" fill="freeze"/>
+<animate attributeType="xml" begin="0.100s" dur="0.400s" attributeName="x" from="300.000" to="200.000" fill="freeze"/>
+<animate attributeType="xml" begin="0.100s" dur="0.400s" attributeName="y" from="150.000" to="200.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(0.000,255.000,0.000)" to="rgb(0.000,0.000,255.000)" begin="0.100s" dur="0.400s" fill="freeze"/>
+<animate attributeType="xml" begin="1.000s" dur="1.000s" attributeName="width" from="40.000" to="15.000" fill="freeze"/>
+<animate attributeType="xml" begin="1.000s" dur="1.000s" attributeName="height" from="40.000" to="20.000" fill="freeze"/>
+<animate attributeType="xml" begin="1.100s" dur="0.400s" attributeName="x" from="200.000" to="100.000" fill="freeze"/>
+<animate attributeType="xml" begin="1.100s" dur="0.400s" attributeName="y" from="200.000" to="100.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(0.000,0.000,255.000)" to="rgb(255.000,0.000,0.000)" begin="1.100s" dur="0.400s" fill="freeze"/>
+<animate attributeType="xml" begin="2.100s" dur="0.400s" attributeName="x" from="100.000" to="300.000" fill="freeze"/>
+<animate attributeType="xml" begin="2.100s" dur="0.400s" attributeName="y" from="100.000" to="150.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(255.000,0.000,0.000)" to="rgb(0.000,255.000,0.000)" begin="2.100s" dur="0.400s" fill="freeze"/>
+<animate attributeType="xml" begin="3.100s" dur="0.400s" attributeName="x" from="300.000" to="200.000" fill="freeze"/>
+<animate attributeType="xml" begin="3.100s" dur="0.400s" attributeName="y" from="150.000" to="200.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(0.000,255.000,0.000)" to="rgb(255.000,0.000,255.000)" begin="3.100s" dur="0.400s" fill="freeze"/>
+</rect>
+<ellipse id="c" cx="200.000" cy="200.000" rx="150.000" ry="150.000" fill="rgb(0,0,255)" visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="0.000s" dur="5.000s" fill="freeze"/>
+<animate attributeType="xml" begin="0.000s" dur="0.500s" attributeName="rx" from="150.000" to="10.000" fill="freeze"/>
+<animate attributeType="xml" begin="0.000s" dur="0.500s" attributeName="ry" from="150.000" to="10.000" fill="freeze"/>
+<animate attributeType="xml" begin="0.100s" dur="0.400s" attributeName="cx" from="200.000" to="100.000" fill="freeze"/>
+<animate attributeType="xml" begin="0.100s" dur="0.400s" attributeName="cy" from="200.000" to="100.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(0.000,0.000,255.000)" to="rgb(255.000,0.000,0.000)" begin="0.100s" dur="0.400s" fill="freeze"/>
+<animate attributeType="xml" begin="1.000s" dur="1.000s" attributeName="rx" from="10.000" to="30.000" fill="freeze"/>
+<animate attributeType="xml" begin="1.000s" dur="1.000s" attributeName="ry" from="10.000" to="30.000" fill="freeze"/>
+<animate attributeType="xml" begin="1.100s" dur="0.400s" attributeName="cx" from="100.000" to="300.000" fill="freeze"/>
+<animate attributeType="xml" begin="1.100s" dur="0.400s" attributeName="cy" from="100.000" to="150.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(255.000,0.000,0.000)" to="rgb(0.000,255.000,0.000)" begin="1.100s" dur="0.400s" fill="freeze"/>
+<animate attributeType="xml" begin="2.100s" dur="0.400s" attributeName="cx" from="300.000" to="200.000" fill="freeze"/>
+<animate attributeType="xml" begin="2.100s" dur="0.400s" attributeName="cy" from="150.000" to="200.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(0.000,255.000,0.000)" to="rgb(255.000,0.000,255.000)" begin="2.100s" dur="0.400s" fill="freeze"/>
+<animate attributeType="xml" begin="3.100s" dur="0.400s" attributeName="cx" from="200.000" to="100.000" fill="freeze"/>
+<animate attributeType="xml" begin="3.100s" dur="0.400s" attributeName="cy" from="200.000" to="100.000" fill="freeze"/>
+<animate attributeName="fill" attributeType="CSS" from="rgb(255.000,0.000,255.000)" to="rgb(0.000,255.000,255.000)" begin="3.100s" dur="0.400s" fill="freeze"/>
+</ellipse>
+</svg>
